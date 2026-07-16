@@ -21,7 +21,3 @@ This repository groups smaller web design practice exercises so they are easier 
 ## Status
 
 This is a learning collection. The goal is practice, consistency, and organization.
-
-## WIP
-
-working on the comments for the pomodoro app
