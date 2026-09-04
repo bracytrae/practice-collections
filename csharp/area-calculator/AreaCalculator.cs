@@ -10,6 +10,13 @@ class Program
         // repeats the program while running is true 
         while (running)
         {
+
+            // Display calculator heading.
+            Console.WriteLine("==================");
+            Console.WriteLine("Area Calculator 📐");
+            Console.WriteLine("==================");
+            Console.WriteLine();
+
             // asks the user to enter the radius of a circle
             Console.Write("Radius: ");
 
