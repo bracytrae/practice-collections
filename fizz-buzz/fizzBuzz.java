@@ -2,7 +2,7 @@
 // Print Fizz for multiples of 3, Buzz for multiples of 5,
 // and FizzBuzz when a number is a multiple of both.
 
-public class fizzBuzz {
+public class FizzBuzz {
     public static void main(String[] args) {
         // Loop through each number from 1 to 15.
         for (int i = 1; i <= 15; i++) {
