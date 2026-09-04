@@ -10,7 +10,7 @@ class Program
         // repeats the program while running is true 
         while (running)
         {
-            // asks the user to enter the radius of the circle
+            // asks the user to enter the radius of a circle
             Console.Write("Radius: ");
 
             // reads the user's input and converts it into a number
