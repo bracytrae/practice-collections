@@ -11,7 +11,7 @@ class Program
         while (running)
         {
 
-            // Display calculator heading.
+            // display calculator heading.
             Console.WriteLine("==================");
             Console.WriteLine("Area Calculator 📐");
             Console.WriteLine("==================");
@@ -23,7 +23,7 @@ class Program
             // reads the user's input and converts it into a number
             double radius = Convert.ToDouble(Console.ReadLine());
 
-            // calculates the area of the circle using: area = π * radius².
+            // calculates the area of the circle using: area = π * radius²
             double area = 3.14 * radius * radius;
 
             // prints the calculated area
